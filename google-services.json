@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "135447494050",
+    "firebase_url": "https://tribhus.firebaseio.com",
+    "project_id": "tribhus",
+    "storage_bucket": "tribhus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135447494050:android:9bbcb3e2907b7676a806fb",
+        "android_client_info": {
+          "package_name": "com.softwrap.tribhus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135447494050-4m2gmto5k1cbe2l1bpnsgej2bi3af4ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwrap.tribhus",
+            "certificate_hash": "e2fda6cbfc434a5593be22d926e66737e3be49a0"
+          }
+        },
+        {
+          "client_id": "135447494050-cnqdq737lnvn7ibvqe313dmi1gnklif4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwrap.tribhus",
+            "certificate_hash": "7c1cd4ca4cc0b2561a048a68ba91410b1bd801cf"
+          }
+        },
+        {
+          "client_id": "135447494050-edl3m1q4g4eu3nktidnetq9f7hgt132j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwrap.tribhus",
+            "certificate_hash": "fce96d05ab0ba7b1f93a635f4ae671562d228483"
+          }
+        },
+        {
+          "client_id": "135447494050-hdktt24ru0e13d6pjuf3pu5qoskvvudt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwrap.tribhus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "135447494050-d87tuckemr9lfsoqa9q5hcb3652i7umb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyBXlKg4yz0botcaQ5QJQ8IenfbFMNVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135447494050-d87tuckemr9lfsoqa9q5hcb3652i7umb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135447494050-qeqo4mal8uligmq8se66ak27f2sd5a3u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.softwrap.tribhus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
